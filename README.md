@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BJJMAGOO
+- 👋 Hi, I’m @Dart
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning JAVA, HTML, JS
 - 💞️ I’m looking to collaborate on JAVA projects
